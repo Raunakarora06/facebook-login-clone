@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+*{
+    background-color: #f0f2f5;
+}
+.logo img{
+    width: 300px;
+    height: 100px;
+}
+.logo{
+    height: 50px;
+    width: 500px;
+    margin-top: 170px;
+    margin-left: 70px;
+    display: inline-block;
+    
+}
+.logo p{
+    margin-left: 40px;
+    margin-top: -10px;
+    font-size: x-large;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.box{
+    display: block;
+    width: 400px;
+    height: 350px;
+    
+    float: right;
+    top: 0;
+    margin-top: 125px;
+    margin-right: 100px;
+    border-radius: 10px;
+    align-items: center;
+    background-color: white;
+}
+
+.box .email{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    border: .5px solid rgb(212, 209, 209);
+    margin-top: 12px;
+    margin-left: 22px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: large;
+    text-indent: 5px;
+    background-color: white;
+}
+
+.box .pass{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    border: .5px solid rgb(212, 209, 209);
+    margin-top: 12px;
+    margin-left: 22px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: large;
+    text-indent: 5px;
+    background-color: white;
+}
+
+.box button{
+    height: 40px;
+    width: 350px;
+    border-radius: 5px;
+    margin-top: 12px;
+    margin-left: 22px;
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    font-size: large;
+}
+
+.box .p{
+    text-align: center;
+    color: #1877f2;
+    background-color: white;
+    text-decoration: underline;
+}
+
+.box .acc{
+    background-color: #42b72a;
+    color: white;
+    height: 50px;
+    width: 200px;
+    font-size: medium;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight:600;
+    margin-left: 100px
+}
+.box .r{
+    color:grey;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    background-color: white;
+    text-align: center;
+    
+}
+.box span{
+    margin-top: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: small;
+}
